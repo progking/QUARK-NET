@@ -1,0 +1,6 @@
+{
+  "name": "Quark Net",
+  "description": "A decentralized compute network that transforms idle GPU, CPU, and server capacity from independent providers into a unified, on-demand supercomputer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
